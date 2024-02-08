@@ -1,3 +1,13 @@
+# Fork Info 🆕
+
+Updates covered in this fork:
+- [x] iOS 15 support (verified up to iOS 17)
+- [x] RxSwift 6 support
+- [x] Package cleanup
+- [x] Build warnings cleanup
+
+# Original Readme ⬇️
+
 <p align="center">
   <img
     alt="RxBluetoothKit library logo"
